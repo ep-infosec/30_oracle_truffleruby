@@ -1,0 +1,1 @@
+fails:IO#gets transcodes to internal encoding if the IO object's external encoding is BINARY

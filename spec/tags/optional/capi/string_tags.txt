@@ -1,0 +1,2 @@
+fails:C-API String function rb_str_tmp_new returns a hidden string (RBasic->klass is NULL)
+fails:C-API String function rb_str_times returns String instances

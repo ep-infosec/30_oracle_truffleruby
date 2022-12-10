@@ -1,0 +1,2 @@
+fails:Range#minmax on an inclusive range should raise RangeError on an endless range without iterating the range
+fails:Range#minmax on an exclusive range should raise RangeError on an endless range

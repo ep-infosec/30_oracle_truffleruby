@@ -1,0 +1,1 @@
+slow:Dir.home when called with the current user name returns the named user's home directory, from the user database

@@ -1,0 +1,4 @@
+allocate
+new
+subclasses
+superclass

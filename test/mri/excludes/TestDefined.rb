@@ -1,0 +1,8 @@
+exclude :test_defined_impl_specific, "needs investigation"
+exclude :test_defined_matchdata, "needs investigation"
+exclude :test_super_toplevel, "needs investigation"
+exclude :test_top_level_constant_not_defined, "needs investigation"
+exclude :test_respond_to, "needs investigation"
+exclude :test_autoloaded_noload, "<\"constant\"> expected but was"
+exclude :test_defined_method_single_call, "<2> expected but was"
+exclude :test_autoloaded_subclass, "[ruby-core:35509]."

@@ -1,0 +1,2 @@
+fails:ARGF.binmode puts reading into binmode
+slow:ARGF.binmode returns self

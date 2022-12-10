@@ -1,0 +1,5 @@
+exclude :test_log, "needs investigation"
+exclude :test_override_bignum_to_f, "needs investigation"
+exclude :test_override_integer_to_f, "needs investigation"
+exclude :test_sqrt, "needs investigation"
+exclude :test_lgamma, "Expected Exception(Math::DomainError) was raised, but the message doesn't match."

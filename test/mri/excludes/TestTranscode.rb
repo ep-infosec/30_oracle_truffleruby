@@ -1,0 +1,6 @@
+exclude :test_CESU_8, "encoding not defined"
+exclude :test_invalid_replace, "needs investigation"
+exclude :test_noargument, "needs investigation"
+exclude :test_IBM720, "needs investigation"
+exclude :test_newline_options, "needs investigation"
+exclude :test_encode_xml_multibyte, "needs investigation"

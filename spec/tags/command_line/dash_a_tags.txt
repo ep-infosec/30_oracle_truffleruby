@@ -1,0 +1,2 @@
+slow:The -a command line option runs the code in loop conditional on Kernel.gets()
+slow:The -a command line option sets $-a

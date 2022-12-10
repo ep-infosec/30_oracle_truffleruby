@@ -1,0 +1,2 @@
+slow:Process::Status#exited? for a child that exited normally returns true
+slow:Process::Status#exited? for a terminated child returns false
